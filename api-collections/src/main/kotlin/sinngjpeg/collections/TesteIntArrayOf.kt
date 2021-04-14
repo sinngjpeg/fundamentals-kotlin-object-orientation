@@ -7,7 +7,7 @@ fun main() {
         println(it)
     }
 
-    print("------------")
+    println("------------")
 
     values.sort()
     values.forEach {
