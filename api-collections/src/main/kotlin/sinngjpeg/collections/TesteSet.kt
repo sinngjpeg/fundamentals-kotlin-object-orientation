@@ -19,6 +19,7 @@ fun main() {
 
     println("-------------")
 
+    //apenas o que é comum entre os dois.
     val resultIntersect = funcionarios3.intersect(funcionarios2)
     resultSubtract.forEach { println(it) }
 
